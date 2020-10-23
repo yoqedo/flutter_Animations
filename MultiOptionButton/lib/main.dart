@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter MultiOption Button',
+      title: 'Flutter Multi Option Button',
       home: MultiOptionButton(),
     );
   }
