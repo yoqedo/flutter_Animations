@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter WlanButton',
+      title: 'Flutter Wlan Button',
       home: WlanButton(),
     );
   }
