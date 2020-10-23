@@ -2,7 +2,7 @@
 
 ### 👋 Hi everybody..
 
-Here you can see a Quick Overview of my Animations that i have build
-Follow me on Instagram [@yoqedo](https://www.instagram.com/yoqedo/)
+Here you can see a Quick Overview of my Animations that i have build <br/>
+Follow me on Instagram [@yoqedo](https://www.instagram.com/yoqedo/) to stay Up to Date
 
 
