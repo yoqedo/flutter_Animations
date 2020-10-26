@@ -8,7 +8,7 @@ Follow me on Instagram [@yoqedo](https://www.instagram.com/yoqedo/) to stay Up t
 ## When you like it support and follow me on:
 Instagram: [@yoqedo](https://www.instagram.com/yoqedo/)
 
-### GIF's and link to Code
+## GIF's and link to Code
 
 [15 - the Code](https://www.instagram.com/yoqedo/)<br/>
 <img src="https://github.com/yoqedo/flutter_Animations/blob/main/gifs/wlanbutton.gif" width="400"><br/>
