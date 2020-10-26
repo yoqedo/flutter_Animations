@@ -12,9 +12,9 @@ Instagram: [@yoqedo](https://www.instagram.com/yoqedo/)
 [15 - the Code](https://www.instagram.com/yoqedo/)<br/>
 <img src="https://github.com/yoqedo/flutter_Animations/blob/main/gifs/wlanbutton.gif" width="400"><br/>
 [15 - Wlan Button](https://www.instagram.com/yoqedo/)<br/>
-<img src="https://github.com/yoqedo/flutter_Animations/blob/main/gifs/multioptionbutton.gif" width="300">
+<img src="https://github.com/yoqedo/flutter_Animations/blob/main/gifs/multioptionbutton.gif" width="400">
 
-<img src="https://github.com/yoqedo/flutter_Animations/blob/main/gifs/onoffbutton.gif" width="300">
-<img src="https://github.com/yoqedo/flutter_Animations/blob/main/gifs/radialprogressbar.gif " width="300">
+<img src="https://github.com/yoqedo/flutter_Animations/blob/main/gifs/onoffbutton.gif" width="400">
+<img src="https://github.com/yoqedo/flutter_Animations/blob/main/gifs/radialprogressbar.gif " width="400">
 
 
