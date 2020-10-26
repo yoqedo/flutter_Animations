@@ -3,7 +3,6 @@
 ### 👋 Hi everybody..
 
 Here you can see a Overview of my Animations that i have build. <br/>
-Follow me on Instagram [@yoqedo](https://www.instagram.com/yoqedo/) to stay Up to Date
 
 ## When you like it support and follow me on:
 Instagram: [@yoqedo](https://www.instagram.com/yoqedo/)
