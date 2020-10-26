@@ -13,3 +13,5 @@ Follow me on Instagram [@yoqedo](https://www.instagram.com/yoqedo/) to stay Up t
 <img src="https://github.com/yoqedo/flutter_Animations/blob/main/gifs/onoffbutton.gif" width="300">
 <img src="https://github.com/yoqedo/flutter_Animations/blob/main/gifs/radialprogressbar.gif " width="300">
 
+﻿# Flutter Animations
+
