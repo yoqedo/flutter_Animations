@@ -2,10 +2,10 @@
 
 ### 👋 Hi everybody..
 
-Here you can see a Overview of my Animations that i have build. <br/>
+I Like to build Apps ore Animations on Flutter.
+Here you can see a Overview of my Animations. <br/>
 
-When you like it support me on:
-Instagram: [@yoqedo](https://www.instagram.com/yoqedo/)
+When you like it support me and stay up to Date on Instagram: [@yoqedo](https://www.instagram.com/yoqedo/)
 
 ## GIF's and link to Code
 
