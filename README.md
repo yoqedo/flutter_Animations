@@ -9,6 +9,8 @@ Instagram: [@yoqedo](https://www.instagram.com/yoqedo/)
 
 ## GIF's and link to Code
 
+[16 - Favorite Button](https://www.instagram.com/yoqedo/)<br/>
+<img src="https://github.com/yoqedo/flutter_Animations/blob/main/gifs/favoritebutton.gif" width="400"><br/>
 [15 - Wlan Button](https://www.instagram.com/yoqedo/)<br/>
 <img src="https://github.com/yoqedo/flutter_Animations/blob/main/gifs/wlanbutton.gif" width="400"><br/>
 [14 - Multioption Button](https://www.instagram.com/yoqedo/)<br/>
