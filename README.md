@@ -9,6 +9,8 @@ When you like it support me and stay up to Date on Instagram: [@yoqedo](https://
 
 ## GIF's and link to Code
 
+[19 - Profile Card](https://www.instagram.com/yoqedo/)<br/>
+<img src="https://github.com/yoqedo/flutter_Animations/blob/main/gifs/profilecard.gif" width="400"><br/>
 [18 - Loading Button](https://www.instagram.com/yoqedo/)<br/>
 <img src="https://github.com/yoqedo/flutter_Animations/blob/main/gifs/loadeddots.gif" width="400"><br/>
 [17 - Credit Cards](https://www.instagram.com/yoqedo/)<br/>
