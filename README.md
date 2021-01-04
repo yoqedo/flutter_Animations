@@ -21,9 +21,13 @@ When you like it support me and stay up to Date on Instagram: [@yoqedo](https://
 <img src="https://github.com/yoqedo/flutter_Animations/blob/main/gifs/wlanbutton.gif" width="400"><br/>
 [14 - Multioption Button](https://www.instagram.com/yoqedo/)<br/>
 <img src="https://github.com/yoqedo/flutter_Animations/blob/main/gifs/multioptionbutton.gif" width="400"><br/>
-[15 - OnOff Toggle Button](https://www.instagram.com/yoqedo/)<br/>
+[12 - Scaled Option Button](https://www.instagram.com/yoqedo/)<br/>
+<img src="https://github.com/yoqedo/flutter_Animations/blob/main/gifs/scaledoptionbutton.gif" width="400"><br/>
+[11 - OnOff Toggle Button](https://www.instagram.com/yoqedo/)<br/>
 <img src="https://github.com/yoqedo/flutter_Animations/blob/main/gifs/onoffbutton.gif" width="400"><br/>
-[15 - Radial Progressbar](https://www.instagram.com/yoqedo/)<br/>
+[10 - Radial Progressbar](https://www.instagram.com/yoqedo/)<br/>
 <img src="https://github.com/yoqedo/flutter_Animations/blob/main/gifs/radialprogressbar.gif " width="400"><br/>
+[10 - SignUp Button](https://www.instagram.com/yoqedo/)<br/>
+<img src="https://github.com/yoqedo/flutter_Animations/blob/main/gifs/signup.gif " width="400"><br/>
 
 
