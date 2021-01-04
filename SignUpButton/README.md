@@ -1,4 +1,4 @@
-# SingnUp
+# SignUpButton
 
 A new Flutter project.
 

@@ -1,4 +1,4 @@
-import 'package:SingnUp/animated_button.dart';
+import 'package:SignUpButton/animated_button.dart';
 import 'package:flutter/material.dart';
 
 class HomeScreen extends StatefulWidget {

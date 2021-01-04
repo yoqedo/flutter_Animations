@@ -1,4 +1,4 @@
-package com.example.SingnUp
+package com.example.SignUpButton
 
 import io.flutter.embedding.android.FlutterActivity
 

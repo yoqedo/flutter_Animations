@@ -1,4 +1,4 @@
-import 'package:SingnUp/home_screen.dart';
+import 'package:SignUpButton/home_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() {
